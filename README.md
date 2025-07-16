@@ -10,7 +10,7 @@ Este proyecto es una demostración de cómo integrar el **Checkout Embebido de C
 - Estilos modernos con HTML y CSS puro.
 - Ideal como base para suscripciones, membresías o ventas digitales.
 
-## 💳 Integración con Clip Checkout Embebido
+## Integración con Clip Checkout Embebido
 
 Este demo utiliza el SDK oficial de Clip, cargado desde:
 
@@ -29,7 +29,7 @@ Es el identificador de una solicitud de pago generada previamente desde tu backe
 
 ---
 
-## 📄 Estructura del Proyecto
+## Estructura del Proyecto
 
 - `index.html`: Contiene todo el código de frontend, incluyendo el botón Clip.
 - `README.md`: Documentación completa del proyecto.
