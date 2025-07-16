@@ -2,7 +2,7 @@
 
 Este proyecto es una demostración de cómo integrar el **Checkout Embebido de Clip** directamente en una página HTML. Permite mostrar una membresía o producto digital y realizar el pago sin redireccionar al usuario a otro sitio.
 
-## 🚀 ¿Qué incluye este demo?
+## ¿Qué incluye este demo?
 
 - Página web responsiva con diseño limpio.
 - Producto: Membresía Premium anual.
@@ -36,7 +36,7 @@ Es el identificador de una solicitud de pago generada previamente desde tu backe
 
 ---
 
-## 📦 Instrucciones de uso
+## Instrucciones de uso
 
 1. Clona este repositorio o descarga el `.zip`.
 2. Abre `index.html` en tu navegador para ver el demo.
@@ -45,7 +45,7 @@ Es el identificador de una solicitud de pago generada previamente desde tu backe
 
 ---
 
-## 🌐 Publicar con GitHub Pages (opcional)
+## Publicar con GitHub Pages (opcional)
 
 1. Sube los archivos a un repositorio nuevo.
 2. Entra a **Settings > Pages**.
@@ -58,26 +58,26 @@ https://TU_USUARIO.github.io/TU_REPOSITORIO/
 
 ---
 
-## ⚠️ Advertencia
+## Advertencia
 
 Este demo utiliza una cuenta de prueba y los pagos son rechazados automáticamente. No se entregará ningún producto.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desarrollado por [Tu Nombre]  
 Basado en la documentación oficial de Clip.
 
 ---
 
-## 🧠 Recursos útiles
+## Recursos útiles
 
 - [Clip Developer Portal](https://developer.clip.mx)
 - [Checkout Embebido - Guía oficial](https://developer.clip.mx/reference/integrar-checkout)
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es libre para uso educativo, con fines demostrativos o pruebas internas.
