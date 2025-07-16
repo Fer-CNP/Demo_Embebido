@@ -66,7 +66,6 @@ Este demo utiliza una cuenta de prueba y los pagos son rechazados automáticamen
 
 ## Autor
 
-Desarrollado por [Tu Nombre]  
 Basado en la documentación oficial de Clip.
 
 ---
